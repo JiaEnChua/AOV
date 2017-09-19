@@ -1,0 +1,13 @@
+Overview: This project is built on a Freescale 9S12C microcontroller written in C programming. It is a robot car that can move around without hitting any object on its way. It utilized infrared sensor to detect obstacle and 2 DC motor to make turns. Five modules on 9S12C were deployed to achieve the goal. 
+
+Component: Infrared sensor, motor driver, infrared sensor, LCD display.
+
+9S12C Microcontroller Module
+
+RTI: Remote Control
+TIM: Sensor Signal Control
+PWM: Motor Speed Control
+ATD: Signal Converter
+SPI: LCD Display
+
+
